@@ -1,5 +1,5 @@
 # prayers-timings-with-library-react
-Built with React, The Prayer Timings Application integrates a prayer timings API to fetch data and utilizes Material UI for a modern and responsive user interface.
+Built with React and vitejs, The Prayer Timings Application integrates a prayer timings API to fetch data and utilizes Material UI for a modern and responsive user interface.
 
 Using **Material UI**: https://mui.com/material-ui/
 
