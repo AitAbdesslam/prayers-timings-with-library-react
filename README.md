@@ -1,17 +1,8 @@
-# prayers-timings-with-library-react
-Built with React and vitejs, The Prayer Timings Application integrates a prayer timings API to fetch data and utilizes Material UI for a modern and responsive user interface.
+# React + Vite
 
-First chose setup new project with vite
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-npm create vite@latest
+Currently, two official plugins are available:
 
-Using **Material UI**: https://mui.com/material-ui/
-
-npm install @mui/material @emotion/react @emotion/styled
-
-
-**API Integration**:
- API: https://api.aladhan.com/v1/timingsByCity?country={country}&city={city}
-   - Create a service to interact with the prayer timings API.
-   - Use `axios` to fetch prayer timings and handle asynchronous operations.
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
